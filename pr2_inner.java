@@ -1,3 +1,5 @@
+//Write a JAVA program to implement Inner class and demonstrate its Access protection.
+
 class outer{
     int x=100;
     class inner{
