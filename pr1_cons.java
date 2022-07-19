@@ -1,4 +1,4 @@
-//Write a JAVA program to demonstrate Constructor Overloading and Method Overloading.
+/*Write a JAVA program to demonstrate Constructor Overloading and Method Overloading.*/
 
 import java.util.Scanner;
 
