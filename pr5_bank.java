@@ -57,7 +57,7 @@ public class bank {
 
 class LessBalanceException extends Exception{
     LessBalanceException(double amt){
-        System.out.println("Withde=rawing"+amt+"is invalid");
+        System.out.println("Withdrawing"+amt+"is invalid");
     }
 }
 class user{
